@@ -1,0 +1,29 @@
+
+public class Ch3App {
+
+	public static void main(String[] args) {
+		
+		
+//		// 1st example
+//		int a = 14;
+//		int b = 8;
+//		
+//		int c = a / b;
+//		int d = a % b;
+//		
+//		System.out.println("a / b = "+c);
+//		System.out.println("a % b = "+d);
+//		
+//		
+		
+		// 2nd example - compound assignment
+		
+		int a = 100;
+		a+=50; // result should be 150
+		System.out.println(a);
+		a=+50;
+		System.out.println(a);
+
+	}
+
+}

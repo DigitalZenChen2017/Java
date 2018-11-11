@@ -1,0 +1,17 @@
+
+public class ClassDemoDay8App {
+
+	public static void main(String[] args) {
+		int quantity = 0;
+		int maxQuantity = 100;
+		
+		System.out.println("quantity = " + quantity);
+		quantity = 10;
+		System.out.println("quantity = " + quantity);
+		
+		quantity = maxQuantity;
+		System.out.println("quantity = " + quantity);
+	}
+
+}
+

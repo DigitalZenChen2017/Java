@@ -1,0 +1,29 @@
+
+public class ClassDemoDay8App {
+
+	public static void main(String[] args) {
+		int quantity = 0;
+		int maxQuantity = 100;
+		
+		System.out.println("quantity = " + quantity);
+		quantity = 10;
+		System.out.println("quantity = " + quantity);
+		
+		quantity = maxQuantity;
+		System.out.println("quantity = " + quantity);
+		
+		int x = 14;
+		int y = 8;
+		int result1 = x + y;
+		int result2 = x - y;
+		int result3 = x * y;
+		int result4 = x / y;
+		
+		System.out.println(result1);
+		System.out.println(result2);
+		System.out.println(result3);
+		System.out.println(result4);
+	}
+
+}
+

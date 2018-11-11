@@ -1,0 +1,19 @@
+package ch01_prj1_StudentRegistration;
+
+import java.util.Scanner;
+
+public class StudentRegistrationApp {
+
+	public static void main(String[] args) {
+	// Welcome Message
+		System.out.println("Student Registration");
+		System.out.println(); // print a blank line;
+	}
+	
+	// create Scanner object called sc
+	Scanner sc = new Scanner(System.in);
+	
+	
+
+}
+

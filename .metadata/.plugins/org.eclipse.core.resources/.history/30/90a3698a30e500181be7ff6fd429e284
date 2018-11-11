@@ -1,0 +1,13 @@
+package ch02_prj2_GradeConverter;
+
+class GradeConverterApp {
+
+	public static void main(String[] args) {
+		//Welcome Message
+		System.out.println("Welcome to the Letter Grade Converter")
+		
+		// Create Scanner object and initialize variables
+		Scanner sc = new Scanner(System.in);
+	}
+
+}
